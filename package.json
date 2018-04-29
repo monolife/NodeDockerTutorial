@@ -9,5 +9,8 @@
   },
   "dependencies": {
     "express": "^4.16.1"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:8081/repository/npm-private/"
   }
 }
